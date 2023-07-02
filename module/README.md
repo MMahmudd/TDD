@@ -24,4 +24,25 @@ The output will display the results of the mathematical operations performed usi
 
 
 
+The output of the ls command shows the contents of the current directory (/TDD/module). Here's an explanation of each item:
+
+README.md: This is a Markdown file that typically contains information, instructions, or documentation about the project or directory.
+
+main.c: This is a C source code file that contains the main function and program logic.
+
+main.exe*: This is the compiled executable file generated from the main.c file. The asterisk (*) indicates that it is an executable file.
+
+math_operations.c: This is a C source code file that contains the implementations of various math operations, such as addition, subtraction, multiplication, and division.
+
+math_operations.h: This is a C header file that includes function declarations and any necessary definitions or macros related to the math operations.
+
+math_operations.o: This is an object file generated during the compilation process. It contains the compiled code for the math operations functions.
+
+In summary, the directory contains C source code files (main.c and math_operations.c), a C header file (math_operations.h), and compiled files (main.exe and math_operations.o). The main.exe file is the executable that can be run to execute the program.
+
+
+
+
+
+
 
